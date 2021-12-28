@@ -7,4 +7,4 @@ Poisson Distribution is calculated using:
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?f(k)%3D%7B\exp(-\mu)%5Cfrac{\mu^k}{k!}%7B)
 
 
-Steps to build the predictor are implemented in [PremierLeague.ipynb](https://github.com/parthamehta123/Football-Predictor/blob/main/PremierLeague.ipynb)
+Steps to build the predictor are implemented in [PremierLeague.ipynb](https://github.com/parthamehta123/Football-Predictor/blob/master/PremierLeague.ipynb)
